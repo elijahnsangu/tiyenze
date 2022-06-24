@@ -1,0 +1,15 @@
+{
+  "name": "tiyenze",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
